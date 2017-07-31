@@ -1,11 +1,13 @@
 {
-	"homepage": "",
+	"homepage": "https://minecraft.curseforge.com/projects/upsidedown",
 	"promos": {
-		"1.12-latest": "0.3.1",
+		"1.12-latest": "0.4.0",
 		"1.11.2-latest": "0.3.0"
 	},
 	"1.12": {
-		"0.3.1": "* fixed some bugs with the search bar feature\ninitial 1.12 alpha"
+		"0.4.0": "* fixed bug #1\n* added search modes for the server screen\n* added blood splats effect\n* major API changes!\n* added jar signing",
+		"0.3.2": "minor bugfixes",
+		"0.3.1": "* fixed some bugs with the search bar feature\n* initial 1.12 alpha"
 	},
 	"1.11.2": {
 		"0.3.0": "* added search bar feature to the multiplayer server selection screen",
