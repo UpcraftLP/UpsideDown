@@ -1,17 +1,21 @@
 {
-	"homepage": "https://minecraft.curseforge.com/projects/upsidedown",
-	"promos": {
-		"1.12-latest": "0.4.0",
-		"1.11.2-latest": "0.3.0"
-	},
-	"1.12": {
-		"0.4.0": "* fixed bug #1\n* added search modes for the server screen\n* added blood splats effect\n* major API changes!\n* added jar signing",
-		"0.3.2": "minor bugfixes",
-		"0.3.1": "* fixed some bugs with the search bar feature\n* initial 1.12 alpha"
-	},
-	"1.11.2": {
-		"0.3.0": "* added search bar feature to the multiplayer server selection screen",
-		"0.2.0": "* bugfixes\n* added config options for Features\n* currently working:\n   - Attack Indicator Sound\n   - Glowing Entities\nBoth Features are fully configurable!",
-		"0.1.0": "early alpha build"
-	}
+  "homepage": "https://minecraft.curseforge.com/projects/upsidedown",
+  "promos": {
+    "1.12.2-latest": "0.4.1",
+    "1.12-latest": "0.4.0",
+    "1.11.2-latest": "0.3.0"
+  },
+  "1.12.2": {
+    "0.4.1": "* bugfixes\n* added update checker\n* new textures for the config screen\n  + movement control"
+  },
+  "1.12": {
+    "0.4.0": "* added search modes\n* mod jars are now signed\n  + blood splats effect",
+    "0.3.2": "* fixed search bar\n* minor bugfixes",
+    "0.3.1": "* initial 1.12 release"
+  },
+  "1.11.2": {
+    "0.3.0": "  + multiplayer search bar",
+    "0.2.0": "* bugfixes\n* added configuration for features\n  + attack indicator sound\n  + glowing entities",
+    "0.1.0": "* Initial Release!"
+  }
 }
