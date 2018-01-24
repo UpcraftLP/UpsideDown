@@ -1,11 +1,13 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/upsidedown",
   "promos": {
-    "1.12.2-latest": "0.4.1",
+    "1.12.2-latest": "0.4.2-SNAPSHOT-b1",
+    "1.12.2-recommended": "0.4.1",
     "1.12-latest": "0.4.0",
     "1.11.2-latest": "0.3.0"
   },
   "1.12.2": {
+    "0.4.2-SNAPSHOT-b1": "* added entity render feature and first-person upside-down shader",
     "0.4.1": "* bugfixes\n* added update checker\n* new textures for the config screen\n  + movement control"
   },
   "1.12": {
