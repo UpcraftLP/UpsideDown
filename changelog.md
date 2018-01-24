@@ -1,10 +1,16 @@
 ------------------------------------------------------
+Version 0.4.2-SNAPSHOT-b1
+------------------------------------------------------
+- new features:
+    - entity render (make entities render upside down, also applies to first-person renderer)
+
+------------------------------------------------------
 Version 0.4.1
 ------------------------------------------------------
 - bugfixes
 - added update-checker
 - new textures for the config screen
-- new featues:
+- new features:
 	- movement control
 
 ------------------------------------------------------
@@ -30,7 +36,7 @@ Version 0.3.1
 ------------------------------------------------------
 Version 0.3.0
 ------------------------------------------------------
-- new featues:
+- new features:
 	- multiplayer search bar
 
 ------------------------------------------------------
