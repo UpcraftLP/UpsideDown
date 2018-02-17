@@ -1,4 +1,11 @@
 ------------------------------------------------------
+Version 0.4.2-SNAPSHOT-b2
+------------------------------------------------------
+- new features:
+    - autofish (WIP, don't expect too much yet)
+- temporarily disabled multiplayer searchbar as it is currently broken, use 0.4.2-SNAPSHOT-b1 if you really need it.
+
+------------------------------------------------------
 Version 0.4.2-SNAPSHOT-b1
 ------------------------------------------------------
 - new features:
